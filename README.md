@@ -3,4 +3,4 @@ Yttrium-stabilized Zirconia (YSZ) is a key ceramic material, with its thin films
 
 To develop a modelling tool for the scientific community, I developed an interactive Streamlit dashboard where researchers can key in the reagent concentrations added and determine the solubility equilibria of Y and Zr. 
 
-This project was conducted under Dr Tay Chuan Beng, advisor for local startup Cellivate Technologies. It won a Merit Award at the Singapore Science and Engineering Fair (SSEF) 2021.
+This project was conducted under Dr Tay Chuan Beng, advisor for local startup Cellivate Technologies. It won a Merit Award at the Singapore Science and Engineering Fair (SSEF) 2022.
